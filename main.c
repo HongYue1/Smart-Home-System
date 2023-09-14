@@ -30,9 +30,5 @@ int main()
   // call the system
   houseSystem();
 
-  while (1)
-  {
-  }
-
   return 0;
 }
